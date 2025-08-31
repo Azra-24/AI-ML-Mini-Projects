@@ -12,7 +12,7 @@ They cover both **numeric data classification** (Iris dataset) and **text classi
 - **Dataset**: UCI Iris Dataset (available in scikit-learn)  
 - **Models used**: Logistic Regression, KNN, Decision Tree  
 - **Evaluation**: Accuracy, Confusion Matrix, Classification Report  
-- **Result**: Decision Tree performed best 🌳  
+- **Result**: Decision Tree performed best   
 
 ---
 
@@ -21,7 +21,7 @@ They cover both **numeric data classification** (Iris dataset) and **text classi
 - **Dataset**: SMS Spam Collection Dataset (UCI Repository)  
 - **Model used**: Naive Bayes  
 - **Evaluation**: Accuracy, Precision, Recall, F1-score, Confusion Matrix  
-- **Result**: Naive Bayes gave high accuracy and is well-suited for text data ✅  
+- **Result**: Naive Bayes gave high accuracy and is well-suited for text data   
 
 ---
 
